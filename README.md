@@ -1,0 +1,2 @@
+# partyApp
+App for events
